@@ -4,7 +4,7 @@
 电视剧
 ------
 
-* [武神赵子龙](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/WuShenZhaoZiLong)
+* [武神赵子龙](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/WuShenZhaoZiLong.m3u)
 
 
 
