@@ -18,4 +18,4 @@
 ----
 
 ### 伦理
-* [韩国](https://github.com/2000100627/zhiboyuan/blob/main/Drive/LunLi/Korea)
+* [韩国](https://github.com/2000100627/zhiboyuan/blob/main/Drive/LunLi/Korea.m3u)
