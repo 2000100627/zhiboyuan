@@ -21,7 +21,7 @@
 
 >***[其他](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/%E5%85%B6%E4%BB%96.m3u)***
 
-[金汤匙](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/JinTangChi.m3u)
+* [金汤匙](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/JinTangChi.m3u)
 
 
 
