@@ -9,9 +9,19 @@
 [武神赵子龙](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/WuShenZhaoZiLong.m3u)
 [黑话律师](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/HeiHuaLvShi.m3u)
 
->***[其他]()***
+>***[杨紫]()***
 
-[金汤匙]()
+[天乩之白蛇传说]()
+
+
+
+
+
+
+
+>***[其他](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/%E5%85%B6%E4%BB%96.m3u)***
+
+[金汤匙](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/JinTangChi.m3u)
 
 
 
