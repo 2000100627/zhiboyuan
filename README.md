@@ -12,7 +12,7 @@
 >***[杨紫](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/%E6%9D%A8%E7%B4%AB.m3u)***
 
 [天乩之白蛇传说](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/TianJiZhiBaiSheChuanShuo.m3u)
-
+[香蜜沉沉烬如霜](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/XiangMiChenChenJinRuShuang.m3u)
 
 
 
