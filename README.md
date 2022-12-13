@@ -22,7 +22,7 @@
 >***[其他](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/%E5%85%B6%E4%BB%96.m3u)***
 
 * [金汤匙](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/JinTangChi.m3u)
-
+* [财阀家的小儿子](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/CaiFaJiaDeXiaoErZhi.m3u)
 
 
 2.电影
