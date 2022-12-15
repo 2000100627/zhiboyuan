@@ -20,6 +20,8 @@
 * [芸汐传](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/YunXiZhuan.m3u)
 * [如意芳霏](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/RuYiFangFei.m3u)
 * [嘉南传](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/JiaNanZhuan.m3u)
+* [新白娘子传奇](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/XinBaiNiangZhiChuanQi.m3u)
+
 
 
 
