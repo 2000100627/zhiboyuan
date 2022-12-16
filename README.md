@@ -28,7 +28,7 @@
 >***[金庸剧](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/%E9%87%91%E5%BA%B8%E5%89%A7.m3u)***
 * [射雕英雄传](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/SheDiaoYingXiongZhuan.m3u)
 * [神雕侠侣](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/ShenDiaoXiaLv.m3u)
-
+* [天龙八部](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/TianLongBaBu.m3u)
 
 
 
