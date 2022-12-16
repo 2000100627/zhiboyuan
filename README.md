@@ -30,6 +30,9 @@
 * [神雕侠侣](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/ShenDiaoXiaLv.m3u)
 * [天龙八部](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/TianLongBaBu.m3u)
 * [鹿鼎记](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/LuDingJi.m3u)
+* [倚天屠龙记](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/YiTianTuLongJi.m3u)
+
+
 
 
 
