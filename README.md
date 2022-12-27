@@ -20,7 +20,7 @@
 >***[陈钰琪](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/%E9%99%88%E9%92%B0%E7%90%AA%2Cm3u)***
 * [倚天屠龙记](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/YiTianTuLongJi.m3u)
 
->***[宫廷剧]()***
+>***[宫廷剧](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/%E5%AE%AB%E5%BB%B7%E5%89%A7.m3u)***
 * [如懿传](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/RuYiZhuan.m3u)
 
 >***[金庸剧](https://github.com/2000100627/zhiboyuan/blob/main/Teleplay/%E9%87%91%E5%BA%B8%E5%89%A7.m3u)***
