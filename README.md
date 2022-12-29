@@ -59,7 +59,7 @@
 >**亚洲AV**
 * [传媒](https://github.com/2000100627/zhiboyuan/blob/main/Drive/YaZhouAV/ChuanMei.m3u)
 * [无码中字](https://github.com/2000100627/zhiboyuan/blob/main/Drive/YaZhouAV/WuMaZhongZi.m3u)
-
+* [中文字幕](https://github.com/2000100627/zhiboyuan/blob/main/Drive/YaZhouAV/ZhongWenZiMu.m3u)
 
 
 
